@@ -4,3 +4,4 @@ App Features:
 ○ Real-time weather updates
 ○ City search functionality
 ○ User-friendly interface
+testing git on vscode.
